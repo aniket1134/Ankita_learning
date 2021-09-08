@@ -2,11 +2,13 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite">
 
-<listeners>
+
+  <listeners>
 		<listener class-name="com.inetbanking.utilities.Reporting" />
 	</listeners>
 	
   <test  thread-count="5" name="ebanking">
+  
       <parameter name="browser" value="chrome" />
     <classes>
       <class name="com.inetbanking.testcases.TC_LoginTest_001"/>
