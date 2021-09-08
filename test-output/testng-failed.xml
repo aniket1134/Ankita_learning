@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [Suite]]">
   <parameter name="browser" value="IE"/>
-  <test name="ebanking(failed)">
+  <test name="ebanking(failed)(failed)">
     <parameter name="browser" value="IE"/>
     <classes>
       <class name="com.inetbanking.testcases.TC_LoginTest_001">
@@ -12,5 +12,5 @@
         </methods>
       </class> <!-- com.inetbanking.testcases.TC_LoginTest_001 -->
     </classes>
-  </test> <!-- ebanking(failed) -->
-</suite> <!-- Failed suite [Suite] -->
+  </test> <!-- ebanking(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Suite]] -->

@@ -40,11 +40,7 @@ public class BaseClass {
 		
 		}
 		
-		else if(browser.equals("IE")){
-			System.setProperty("webdriver.ie.driver",readconfig.getIEpath());
-			driver=new InternetExplorerDriver();
-			
-			}
+		
 		driver.manage().timeouts().implicitlyWait(30,TimeUnit.SECONDS);
 		driver.get(baseurl);
 	}
@@ -58,7 +54,7 @@ public class BaseClass {
 	public void captureScreen(WebDriver driver, String tname) throws IOException {
 		TakesScreenshot ts = (TakesScreenshot) driver;
 		File source = ts.getScreenshotAs(OutputType.FILE);
-		File target = new File(System.getProperty("user.dir") + "/Screenshot/" + tname + ".png");
+		File target = new File(System.getProperty("user.dir") + "/Screenshots/" + tname + ".png");
 		FileUtils.copyFile(source, target);
 		System.out.println("Screenshot taken");
 	}

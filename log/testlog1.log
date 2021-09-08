@@ -22,3 +22,7 @@
 2021-09-08 17:08:47,324 [main] INFO com.inetbanking.testcases.TC_LoginTest_001 - entered userid
 2021-09-08 17:08:47,775 [main] INFO com.inetbanking.testcases.TC_LoginTest_001 - entered password
 2021-09-08 17:08:49,577 [main] INFO com.inetbanking.testcases.TC_LoginTest_001 - Logintest case failed
+2021-09-08 20:20:11,477 [main] INFO com.inetbanking.testcases.TC_LoginTest_001 - on login page
+2021-09-08 20:20:11,722 [main] INFO com.inetbanking.testcases.TC_LoginTest_001 - entered userid
+2021-09-08 20:20:11,882 [main] INFO com.inetbanking.testcases.TC_LoginTest_001 - entered password
+2021-09-08 20:20:13,823 [main] INFO com.inetbanking.testcases.TC_LoginTest_001 - Logintest case failed

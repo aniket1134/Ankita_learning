@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="15846" started-at="2021-09-08T11:38:34Z" finished-at="2021-09-08T11:38:50Z">
+  <suite name="InetBankingV1" duration-ms="18328" started-at="2021-09-08T14:49:56Z" finished-at="2021-09-08T14:50:14Z">
     <groups>
     </groups>
-    <test name="ebanking" duration-ms="15846" started-at="2021-09-08T11:38:34Z" finished-at="2021-09-08T11:38:50Z">
+    <test name="ebanking" duration-ms="18328" started-at="2021-09-08T14:49:56Z" finished-at="2021-09-08T14:50:14Z">
       <class name="com.inetbanking.testcases.TC_LoginTest_001">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.inetbanking.testcases.TC_LoginTest_001@685cb137]" name="setup" is-config="true" duration-ms="10269" started-at="2021-09-08T17:08:34Z" finished-at="2021-09-08T17:08:45Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.inetbanking.testcases.TC_LoginTest_001@685cb137]" name="setup" is-config="true" duration-ms="12934" started-at="2021-09-08T20:19:56Z" finished-at="2021-09-08T20:20:09Z">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="logintest()[pri:0, instance:com.inetbanking.testcases.TC_LoginTest_001@685cb137]" name="logintest" duration-ms="4352" started-at="2021-09-08T17:08:45Z" finished-at="2021-09-08T17:08:49Z">
+        <test-method status="PASS" signature="logintest()[pri:0, instance:com.inetbanking.testcases.TC_LoginTest_001@685cb137]" name="logintest" duration-ms="4097" started-at="2021-09-08T20:20:09Z" finished-at="2021-09-08T20:20:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logintest -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:com.inetbanking.testcases.TC_LoginTest_001@685cb137]" name="teardown" is-config="true" duration-ms="1181" started-at="2021-09-08T17:08:49Z" finished-at="2021-09-08T17:08:50Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.inetbanking.testcases.TC_LoginTest_001@685cb137]" name="teardown" is-config="true" duration-ms="851" started-at="2021-09-08T20:20:13Z" finished-at="2021-09-08T20:20:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- com.inetbanking.testcases.TC_LoginTest_001 -->
     </test> <!-- ebanking -->
-  </suite> <!-- Suite -->
+  </suite> <!-- InetBankingV1 -->
 </testng-results>
