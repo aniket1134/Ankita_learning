@@ -1,0 +1,20 @@
+2021-09-02 14:46:50,571 - com.inetbanking.testcases.TC_LoginTest_001 -INFO - on login page
+2021-09-02 14:46:50,905 - com.inetbanking.testcases.TC_LoginTest_001 -INFO - entered userid
+2021-09-02 14:46:51,103 - com.inetbanking.testcases.TC_LoginTest_001 -INFO - entered password
+2021-09-02 14:46:52,652 - com.inetbanking.testcases.TC_LoginTest_001 -INFO - Logintest case failed
+2021-09-07 12:20:19,759 - com.inetbanking.testcases.TC_LoginTest_001 -INFO - on login page
+2021-09-07 12:20:20,238 - com.inetbanking.testcases.TC_LoginTest_001 -INFO - entered userid
+2021-09-07 12:20:20,502 - com.inetbanking.testcases.TC_LoginTest_001 -INFO - entered password
+2021-09-07 12:20:21,978 - com.inetbanking.testcases.TC_LoginTest_001 -INFO - Logintest case failed
+2021-09-07 12:27:05,740 - com.inetbanking.testcases.TC_LoginTest_001 -INFO - on login page
+2021-09-07 12:27:06,046 - com.inetbanking.testcases.TC_LoginTest_001 -INFO - entered userid
+2021-09-07 12:27:06,231 - com.inetbanking.testcases.TC_LoginTest_001 -INFO - entered password
+2021-09-07 12:27:07,866 - com.inetbanking.testcases.TC_LoginTest_001 -INFO - Logintest case failed
+2021-09-07 16:58:06,431 - com.inetbanking.testcases.TC_LoginTest_001 -INFO - on login page
+2021-09-07 16:58:06,715 - com.inetbanking.testcases.TC_LoginTest_001 -INFO - entered userid
+2021-09-07 16:58:06,916 - com.inetbanking.testcases.TC_LoginTest_001 -INFO - entered password
+2021-09-07 16:58:08,502 - com.inetbanking.testcases.TC_LoginTest_001 -INFO - Logintest case failed
+2021-09-07 17:13:49,983 - com.inetbanking.testcases.TC_LoginTest_001 -INFO - on login page
+2021-09-07 17:13:50,335 - com.inetbanking.testcases.TC_LoginTest_001 -INFO - entered userid
+2021-09-07 17:13:50,532 - com.inetbanking.testcases.TC_LoginTest_001 -INFO - entered password
+2021-09-07 17:13:52,132 - com.inetbanking.testcases.TC_LoginTest_001 -INFO - Logintest case failed
