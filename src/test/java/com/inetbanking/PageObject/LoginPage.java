@@ -23,7 +23,7 @@ public class LoginPage {
 	WebElement textuserpassword;
 	
 	@FindBy(name="btnLogin")
-	WebElement btnLogin;
+	WebElement btnLog;
 	
 	public void setusername(String uname)
 	{
